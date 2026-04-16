@@ -1,0 +1,20 @@
+# Basic portals.yml copied from templates and narrowed for analytics roles
+
+title_filter:
+  positive:
+    - "Data"
+    - "Analyst"
+    - "Business Analyst"
+    - "Data Analyst"
+    - "Analytics"
+    - "Power BI"
+    - "Marketing Analytics"
+  negative:
+    - "Intern"
+    - "Junior"
+    - "iOS"
+    - "Android"
+
+search_queries: []
+
+tracked_companies: []

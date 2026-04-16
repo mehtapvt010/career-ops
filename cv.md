@@ -28,6 +28,9 @@ _Feb 2026 – Present_
 - Developed financial models and cost-to-serve benchmarks to evaluate the operational economics of community initiatives; provided a fact-based rationale for resource allocation that optimized annual budgets and saved $120,000 in peripheral administrative costs.
 - Aligned program directors and research staff to execute operational due diligence; mapped performance against internal KPIs and grant requirements to reduce reporting bottlenecks by 30%.
 - Built analytical frameworks to assess organic growth opportunities, such as scaling successful interventions to new communities; synthesized historical performance data and risk assessments to inform long-term strategic planning, directly supporting the expansion of programs to over 400 new participants.
+- Owned weekly Tableau dashboards tracking engagement and growth metrics; produced executive-ready narratives and visualizations to guide content and commercial decisions.
+- Implemented SQL-based ETL checks and documented data-quality rules to detect and resolve pipeline gaps, improving reliability across disparate data sources.
+- Designed and executed campaign measurement and A/B test analyses using SQL and Python; translated results into practical recommendations for marketing and re-engagement strategies.
 
 ### Associate Analyst | Success Academy Charter Schools — New York City, NY
 _Sep 2025 – Jan 2026_
